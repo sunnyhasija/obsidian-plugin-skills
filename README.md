@@ -31,8 +31,8 @@ your-vault/
 Or clone this repo and symlink:
 
 ```bash
-git clone https://github.com/sunnyhasija/obsidian-skills.git
-ln -s /path/to/obsidian-skills/skills /path/to/your-vault/.claude/skills
+git clone https://github.com/sunnyhasija/obsidian-plugin-skills.git
+ln -s /path/to/obsidian-plugin-skills/skills /path/to/your-vault/.claude/skills
 ```
 
 ## Skill Coverage
