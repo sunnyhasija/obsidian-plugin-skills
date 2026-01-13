@@ -11,7 +11,7 @@ Claude Code skills for popular Obsidian plugins. These reference documents help 
 | Skill | Plugin | Upstream PR |
 |-------|--------|-------------|
 | [Dataview](skills/dataview/SKILL.md) | [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) | [#2651](https://github.com/blacksmithgu/obsidian-dataview/pull/2651) |
-| [Datacore](skills/datacore/SKILL.md) | [datacore](https://github.com/blacksmithgu/datacore) | — |
+| [Datacore](skills/datacore/SKILL.md) | [datacore](https://github.com/blacksmithgu/datacore) | [#158](https://github.com/blacksmithgu/datacore/pull/158) |
 | [Templater](skills/templater/SKILL.md) | [Templater](https://github.com/SilentVoid13/Templater) | [#1682](https://github.com/SilentVoid13/Templater/pull/1682) |
 | [Tasks](skills/tasks/SKILL.md) | [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | [#3732](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3732) |
 
