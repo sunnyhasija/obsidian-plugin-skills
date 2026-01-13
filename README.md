@@ -11,6 +11,7 @@ Claude Code skills for popular Obsidian plugins. These reference documents help 
 | Skill | Plugin | Upstream PR |
 |-------|--------|-------------|
 | [Dataview](skills/dataview/SKILL.md) | [obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) | [#2651](https://github.com/blacksmithgu/obsidian-dataview/pull/2651) |
+| [Datacore](skills/datacore/SKILL.md) | [datacore](https://github.com/blacksmithgu/datacore) | — |
 | [Templater](skills/templater/SKILL.md) | [Templater](https://github.com/SilentVoid13/Templater) | [#1682](https://github.com/SilentVoid13/Templater/pull/1682) |
 | [Tasks](skills/tasks/SKILL.md) | [obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) | [#3732](https://github.com/obsidian-tasks-group/obsidian-tasks/pull/3732) |
 
@@ -43,6 +44,13 @@ ln -s /path/to/obsidian-plugin-skills/skills /path/to/your-vault/.claude/skills
 - Inline fields and implicit fields
 - All functions (string, numeric, date, array)
 - DataviewJS API
+
+### Datacore
+- JSX/React view syntax
+- Query hooks (dc.useQuery, dc.useCurrentFile)
+- Type queries (@page, @task, @section, @block)
+- Built-in components (dc.Table, dc.List, dc.Callout)
+- State management with React hooks
 
 ### Templater
 - Template syntax (`<% %>` vs `<%* %>`)
